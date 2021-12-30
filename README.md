@@ -1,5 +1,15 @@
 # Nuxt + Tailwind + Supabase
 
+## Clone to your own project
+
+```bash
+$ git clone https://github.com/sferik/sign-in-with-twitter.git your-project-name
+
+# or
+
+$ git clone git@github.com:sferik/sign-in-with-twitter.git your-project-name
+```
+
 ## Build Setup
 
 ```bash
