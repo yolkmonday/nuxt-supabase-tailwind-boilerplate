@@ -3,11 +3,11 @@
 ## Clone to your own project
 
 ```bash
-$ git clone https://github.com/sferik/sign-in-with-twitter.git your-project-name
+$ git clone https://github.com/aripadrian/nuxt-supabase-tailwind-boilerplate.git your-project-name
 
 # or
 
-$ git clone git@github.com:sferik/sign-in-with-twitter.git your-project-name
+$ git clone git@github.com:aripadrian/nuxt-supabase-tailwind-boilerplate.git your-project-name
 ```
 
 ## Build Setup
